@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb';
 
-const uri = 'mongodb+srv://aldoquirozandrade_db_user:efdFsaZLUEiRsiWT@eva-u3-express.yuvnp6w.mongodb.net/?retryWrites=true&w=majority&appName=eva-u3-express';
+const uri = "mongodb+srv://eva2_spring:vP1JebsPcSSRUQ0L@cluster-spring.vdjvscn.mongodb.net/?retryWrites=true&w=majority&appName=cluster-spring";
 const client = new MongoClient(uri);
 const dbName = 'cine-db';
 
